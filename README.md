@@ -1,13 +1,6 @@
 # Reinforcement Learning
 
-** Haydar Kilic, Artificial Intelligence Engineering **
-
-
----
-
-## 📖 Source Textbook
-
-The Jupyter notebooks in this repository contain Python implementations of the theoretical content in Reinforcement Learning Class.
+This repository serves as a structured, hands-on masterclass in the core concepts and algorithms of **Reinforcement Learning (RL)**. Moving from tabular methods and mathematical frameworks to model-free prediction and advanced control strategies, each notebook provides clear theoretical breakdowns paired with clean Python implementations.
 
 ---
 
